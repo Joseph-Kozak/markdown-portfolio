@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I enjoy Biking, *Downhill*
+and **REALLY** have fun with Table top gaming.
